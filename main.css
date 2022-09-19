@@ -1,0 +1,54 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    background-color: black;
+}
+
+h1 {
+    margin-bottom:0px;
+}
+
+.stats {
+    width:250px;
+    height:250px;
+    margin:auto;
+    color: white;
+}
+
+.stats h1 {
+    margin:0;
+    color: white;
+}
+
+.stats ul {
+    margin-top:0px;
+    color: white;
+}
+
+.cookieContainer {
+    width: 100%;
+    height: 310px;
+    text-align:center;
+    color: white;
+}
+
+.cookieButton {
+    background-color: transparent;
+    border:none;
+    outline:none;
+    padding:0;
+    margin:auto;
+    display:block;
+}
+
+.cookieContainer b#cookieDisplay {
+    font-size: 24px;
+}
+
+.shop {
+  color: white;
+}
+
+.Social {
+  color: white;
+}
